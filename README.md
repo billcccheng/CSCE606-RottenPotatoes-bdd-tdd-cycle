@@ -100,5 +100,6 @@ we'll show how to run Cucumber scenarios directly against your deployed app, not
 + Any files you modified (i.e. app/, config/routes.rb, db/migrate/, etc.)
 
 
-**Special Note:**
+Special Note
+----
 You are welcome to fork my repo but if you are forking this for a homework, please consult with your professor to see if this is allowed. Thanks!
